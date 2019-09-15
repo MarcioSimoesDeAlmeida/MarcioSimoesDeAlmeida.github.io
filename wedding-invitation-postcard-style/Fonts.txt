@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Latin Modern Roman
+Author: GUST e-foundry
+Url: http://www.fontsquirrel.com/fonts/Latin-Modern-Roman
+
+Font: Kreon
+Author: Julie Petretta
+Url: http://www.fontsquirrel.com/fonts/kreon
+
+Font: Caviar Dreams
+Author: Nymphont
+Url: http://www.fontsquirrel.com/fonts/Caviar-Dreams
